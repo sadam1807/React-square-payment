@@ -1,0 +1,19 @@
+{
+  "name": "react-square-payment",
+  "version": "1.0.0",
+  "description": "Square Payment Gateway Using React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadam1807/React-square-payment.git"
+  },
+  "author": "sadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadam1807/React-square-payment/issues"
+  },
+  "homepage": "https://github.com/sadam1807/React-square-payment#readme"
+}
