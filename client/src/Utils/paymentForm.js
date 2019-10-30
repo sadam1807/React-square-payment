@@ -1,6 +1,3 @@
-// let dotenv = require('dotenv');
-// const env = dotenv.config().parsed;
-console.log(process.env.REACT_APP_APLLICATION_ID);
 const config = {
     // Initialize the payment form elements
     
@@ -71,14 +68,14 @@ const config = {
             })
             .then(data => {
               console.log(JSON.stringify(data));
-              alert('Payment complete successfully!\nCheck browser developer consolf form more details');
+              alert('Payment complete successfully!\nCheck browser developer console form more details');
             })
             .catch(err => {
               console.error(err);
-              alert('Payment failed to complete!\nCheck browser developer consolf form more details');
+              alert('Payment failed to complete!\nCheck browser developer console form more details');
             });
-                  }
-              }
+        }
+      }
 }
 
 export default config;

@@ -5,9 +5,9 @@ const Square = ({ paymentForm }) => {
 
     paymentForm = new paymentForm(config);
     paymentForm.build();
-     const requestCardNonce = () =>{
+    const requestCardNonce = () =>{
         paymentForm.requestCardNonce();
-     }
+    }
 
     return (
         <div id="form-container">
