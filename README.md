@@ -9,4 +9,4 @@ steps
 5. create .env file and define application id
 6. npm install
 
-For more explaintion read this [Post](https://medium.com/p/652ab31e32df/edit).
+For more explaintion read this [Post](https://medium.com/@bapunawarsaddam/square-credit-card-payment-integration-using-react-and-react-hooks-652ab31e32df).
